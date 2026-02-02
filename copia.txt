@@ -21,8 +21,8 @@ int	ft_atoi(const char *str)
 	i = 0;
 	sol = 1;
 	equ = 0;
-	while fajfdaf
-	
+	while holo
+
 	if (str[i] == '-')
 	{
 		sol = -sol;
